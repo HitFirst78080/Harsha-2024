@@ -1440,6 +1440,9 @@ img.review-stars {
 }
 
 @media screen and (min-device-width: 481px) and (max-device-width: 768px) { 
+
+
+  
   .desk
     {
         display: none;
@@ -1494,7 +1497,7 @@ img.review-stars {
     
 .overlay
     {
-        min-height: 41vh;
+        min-height: 35vh !important;
     }
     .new-2 {
     text-align: center;
@@ -1583,7 +1586,7 @@ video {
 }
 
 .overlay {
-  min-height: 45vh;
+  min-height: 39vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
